@@ -1,2 +1,3 @@
 # introduction-to-github
-this contains google IT automation with python 
+this is the third course on google IT automation with python
+I am editting the README file adding more details about the project description 
